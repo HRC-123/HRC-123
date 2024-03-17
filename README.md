@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrc-123&show_icons=true&locale=en" alt="hrc-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrc-123&" alt="hrc-123" /></p>
+
+[![An image of @hrc123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hrc123)](https://holopin.io/@hrc123)
