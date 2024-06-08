@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAMCHARAN HANUMANTHU</h1>
-<h3 align="center">A passionate ml and full stack developer from Dr. B R Ambedkar National Institute of Technology,Jalandhar</h3>
+<h3 align="center">A passionate ML and Full Stack developer from Dr. B R Ambedkar National Institute of Technology,Jalandhar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrc-123&label=Profile%20views&color=0e75b6&style=flat" alt="hrc-123" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Machine Learning Course**
 
-- 👨‍💻 All of my projects are available at [https://ramcharanhanumanthu.onrender.com/](https://ramcharanhanumanthu.onrender.com/)
+- 👨‍💻 All of my projects are available at [Ramcharan Hanumanthu](https://ramcharanhanumanthu.onrender.com/)
 
 - 💬 Ask me about **react,node.js,mongodb**
 
