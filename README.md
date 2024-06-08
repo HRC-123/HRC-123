@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Machine Learning Course**
 
-- 👨‍💻 All of my projects are available at [Ramcharan Hanumanthu](https://ramcharanhanumanthu.onrender.com/)
-
 - 💬 Ask me about **react,node.js,mongodb**
 
 - 📫 How to reach me **ramcharancareeers@gmail.com**
