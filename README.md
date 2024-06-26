@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAMCHARAN HANUMANTHU</h1>
-<h3 align="center">A passionate ML and Full Stack developer from Dr. B R Ambedkar National Institute of Technology,Jalandhar</h3>
+<h3 align="center">A passionate AI/ML and Full Stack developer from NIT,Jalandhar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrc-123&label=Profile%20views&color=0e75b6&style=flat" alt="hrc-123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrc-123" alt="hrc-123" /></a> </p>
 
-- 🌱 I’m currently learning **React, Machine Learning Course**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 💬 Ask me about **react,node.js,mongodb**
 
